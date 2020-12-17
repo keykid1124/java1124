@@ -1,4 +1,4 @@
 public class Hello{
 	public static void main(String[] agrs)
-		System.out.println("nihao");
+		System.out.println("nihao xiaohuang");
 }
